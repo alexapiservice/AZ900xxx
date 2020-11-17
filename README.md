@@ -1,2 +1,2 @@
 # AZ900
-Labs AZ900 Course
+Labs AZ900 Azure Fundamentals
